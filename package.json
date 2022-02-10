@@ -18,7 +18,7 @@
     "gatsby-source-filesystem": "^2.1.39",
     "gatsby-transformer-sharp": "^2.3.6",
     "lost": "^8.3.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "normalize-scss": "^7.0.1",
     "postcss-pxtorem": "^4.0.1",
     "prop-types": "^15.7.2",
